@@ -38,7 +38,7 @@ The project is organized as follows:
 
 1. **Clone the repository:**
    ```bash
- (https://github.com/S-Mithun-Raaj/Prodigy_ML_04)  ```
+ (https://github.com/S-KAVYA-VARSHINI/Prodigy_Intern4.git)  ```
 
 2. **Install dependencies:**
    ```bash
